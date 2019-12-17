@@ -14,3 +14,6 @@
  
  ### Jump!
  Character can jump upto a fixed height with W key and during jump it is animated with Sprites to give the effect , it can also move forward and Backward during jump and can also change direction of horizontal motion with A or D keys !  
+ 
+ ### Refrences 
+ Graphics Library used - ![SFML](https://www.sfml-dev.org/)
