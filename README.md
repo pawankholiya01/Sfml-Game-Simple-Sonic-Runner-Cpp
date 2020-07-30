@@ -2,11 +2,11 @@
  A Basic Game engine with features like state manager (adding deleting states ) , Asset manager implemented in c++ with SFM Llibrary  created in Visual Studio - 2017 . The game engine with itself binds a simple running sonic game that runs on both directions and jumps all animated with the help of a Sprite Sheets .
  This project is under Devlopment , Stay Tuned !!
  
- **To Run locally :** 
- First setup `SFML library` in your ide .
- Download and Extract the zip.
- Run the file `game.cpp`
-
+ ## To Run locally 
+  - First setup `SFML library` in your ide (preferably `Visual Studio`).
+  - Download and Extract the zip.
+  - Run the file `game.cpp` .
+ 
  ### Running
  Character is capable of running in both the direction with A and D keys , as it moves in a direction the land sprites are actually moving in opposite direction to give running effect , character is animated using 2 Sprite Sheets One for Forward Motion and another for backward motion (same image Flipped!) . 
  
@@ -19,4 +19,13 @@
  
  ### Refrences 
  Graphics Library used - [SFML](https://www.sfml-dev.org/)
+ 
+ ### Sample movements:
+ ![Sonic Character Running](/running.png)
+ 
+ **Sonic Running**
+ 
+  ![Sonic Jump](/jump.png)
+  
+ **Sonic Jump**
  
